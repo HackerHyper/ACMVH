@@ -1,6 +1,6 @@
 
 ## ACMVH
-The source code of "Adaptive Confidence Multi-View Hashing for Multimedia Retrieval." (submit ICASSP 2024)
+The source code of "Adaptive Confidence Multi-View Hashing for Multimedia Retrieval." (Submit to ICASSP 2024)
 
 ## Dataset(BSTH,Lei Zhu)
   链接：https://pan.baidu.com/s/1-_XwzUb8w-UMupa_U6aWnw 提取码：u7gu
